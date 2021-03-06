@@ -1,2 +1,7 @@
 # DataStruture
-In this project we cover all Linked-List
+In this project we cover all Linked-List likes
+ SINGALY LINEAR LINKEDLIST\n";
+ SINGALY CIRCULAR LINKEDLIST\n";
+ DOUBLE LENEAR LINKEDLIST\n";
+ DOUBLE CIRCLULR LINKEDLIST\n";
+        
